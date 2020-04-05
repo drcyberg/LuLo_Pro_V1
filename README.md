@@ -22,7 +22,7 @@ GPIO.
 WPA2, WAPI.
 - Support AP/Client/Router mode.
 
-### Extra Additionals
+### Extra Additional
 
 - Fan/LED Strip (5V/500mAh)
 
