@@ -21,6 +21,7 @@ GPIO.
 - Security: WEP64/128, TKIP, AES, WPA,
 WPA2, WAPI.
 - Support AP/Client/Router mode.
+- Power Supply Adapter DC 5V/1A
 
 ### Extra Additional
 
