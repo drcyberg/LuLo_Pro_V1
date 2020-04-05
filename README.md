@@ -77,4 +77,4 @@ WPA2, WAPI.
 
 [Donate](https://www.paypal.me/Kunee82 "Donate")
 
-### Have a nice days
+### Have a nice day
