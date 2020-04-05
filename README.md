@@ -55,4 +55,4 @@ WPA2, WAPI.
 
 ### Manual [Download](http://www.skylab.com.cn/uploadfile/Download/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
 
-### BOM (Bill Of Materials) [Link](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.html "Link")
+### BOM (Bill Of Materials) [Link](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/bom.htm "Link")
