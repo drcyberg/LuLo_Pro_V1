@@ -34,4 +34,8 @@ WPA2, WAPI.
 - Smart Home Gateway
 - Industry Control
 
-### Applications
+### Application Block Diagram
+
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/8.jpg)
+
+### Firmware [OpenWrt](https://openwrt.org/toh/hwdata/skylab/skylab_skw92a "OpenWrt")
