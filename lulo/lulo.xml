@@ -2,8 +2,8 @@
 <export version="D">
   <design>
     <source>/home/crypt/lulo/lulo/lulo.sch</source>
-    <date>2019. jún. 10., hétfő, 12:16:35 CEST</date>
-    <tool>Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1</tool>
+    <date>2020. ápr. 5., vasárnap, 11:28:03 CEST</date>
+    <tool>Eeschema 5.1.5-52549c5~86~ubuntu19.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>LuLo</title>
@@ -415,7 +415,7 @@
       <value>skw92a</value>
       <footprint>lulo:SKW92A</footprint>
       <datasheet>http://www.skylabmodule.com/iot-ap-wifi-module-skw92a/</datasheet>
-      <libsource lib="skw92a" part="skw92a" description=""/>
+      <libsource lib="lulo-rescue" part="skw92a-skw92a" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5CC93DC2</tstamp>
     </comp>
@@ -690,6 +690,10 @@
     </libpart>
     <libpart lib="Mechanical" part="Heatsink">
       <description>Heatsink</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Heatsink:*</fp>
+      </footprints>
       <fields>
         <field name="Reference">HS</field>
         <field name="Value">Heatsink</field>
@@ -761,6 +765,7 @@
     </libpart>
     <libpart lib="Switch" part="SW_Push">
       <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
       <fields>
         <field name="Reference">SW</field>
         <field name="Value">SW_Push</field>
@@ -789,10 +794,10 @@
         <pin num="6" name="BA" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="skw92a" part="skw92a">
+    <libpart lib="lulo-rescue" part="skw92a-skw92a">
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">skw92a</field>
+        <field name="Value">skw92a-skw92a</field>
       </fields>
       <pins>
         <pin num="1" name="WAN_PORT_RX+" type="input"/>
@@ -870,9 +875,6 @@
     </library>
     <library logical="lulo-rescue">
       <uri>/home/crypt/lulo/lulo/lulo-rescue.lib</uri>
-    </library>
-    <library logical="skw92a">
-      <uri>/home/crypt/lulo/skw92a.lib</uri>
     </library>
   </libraries>
   <nets>
