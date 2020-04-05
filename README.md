@@ -47,6 +47,9 @@ WPA2, WAPI.
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/5.jpg)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/6.jpg)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/7.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/10.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/11.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/12.jpg)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/9.jpg)
 
 ### Firmware [Download](https://openwrt.org/toh/hwdata/skylab/skylab_skw92a "skw92a")
