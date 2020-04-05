@@ -1,4 +1,4 @@
-# LuLo Pro V1 Network Router
+# LuLo Pro V1 Wireless Network Router
 
 ### Description
 
@@ -38,8 +38,17 @@ WPA2, WAPI.
 
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/8.jpg)
 
-### 
+### Samples/Schematic
 
-### Firmware: [Download](https://openwrt.org/toh/hwdata/skylab/skylab_skw92a "DOWNLOAD")
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/1.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/2.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/3.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/4.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/5.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/6.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/7.jpg)
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/9.jpg)
+
+### Firmware: [Download](https://openwrt.org/toh/hwdata/skylab/skylab_skw92a "Download")
 
 ### How to flash: [Link](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb "Link")
