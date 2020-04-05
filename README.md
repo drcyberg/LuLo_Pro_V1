@@ -63,4 +63,4 @@ WPA2, WAPI.
 - [Frame](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_frame.stl "Frame")
 - [Cover](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_cover.stl "Cover")
 - [Cover With Fan And Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wf_wlcd.stl "Cover With Fan And Lcd")
-[Cover With Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wof_wlcd.stl "Cover With Lcd")
+- [Cover With Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wof_wlcd.stl "Cover With Lcd")
