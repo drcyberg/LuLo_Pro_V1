@@ -1,0 +1,61 @@
+Source:	/home/crypt/lulo/lulo/lulo.sch
+Date:	2019. jún. 10., hétfő, 12:16:35 CEST
+Tool:	Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1
+Component Count:	56
+Ref	Value	Part	Footprint	Description	Vendor
+C1	680UF	Device:CP	Capacitor_THT:CP_Radial_D8.0mm_P3.50mm	Polarized capacitor	
+C2	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C3	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C4	3300UF	Device:CP	Capacitor_THT:CP_Radial_D12.5mm_P5.00mm	Polarized capacitor	
+C5	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C6	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C7	10NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C8	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C9	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C10	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C11	10NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C12	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C13	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C14	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C15	10NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C16	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C17	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C18	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C19	10NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C20	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C21	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C22	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C23	10NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+C24	100NF	Device:C	Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm	Unpolarized capacitor	
+D1	D_Schottky	Device:D_Schottky	Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal	Schottky diode	
+D2	LED	Device:LED	LED_THT:LED_D3.0mm	Light emitting diode	
+D3	L-7104SA-3GD	lulo-rescue:L-7104SA-3GD-L-7104SA-3GD	openrouter:L-7104SA-3GD		
+D4	L-7104SA-3GD	lulo-rescue:L-7104SA-3GD-L-7104SA-3GD	openrouter:L-7104SA-3GD		
+HS1	Heatsink	Mechanical:Heatsink	d01a_heat_sink:D01A_Heat_Sink	Heatsink	
+J1	Jack-DC	Connector:Jack-DC	Connector_BarrelJack:BarrelJack_Horizontal	DC Barrel Jack	
+J2	Conn_01x02	Connector_Generic:Conn_01x02	w_conn_kk100:kk100_22-23-2021	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J3	RJ45_Shielded	Connector:RJ45_Shielded	openrouter:SI-60008-F	RJ connector, 8P8C (8 positions 8 connected), Shielded	
+J4	RJ45_Shielded	Connector:RJ45_Shielded	openrouter:SI-60008-F	RJ connector, 8P8C (8 positions 8 connected), Shielded	
+J5	RJ45_Shielded	Connector:RJ45_Shielded	openrouter:SI-60008-F	RJ connector, 8P8C (8 positions 8 connected), Shielded	
+J6	RJ45_Shielded	Connector:RJ45_Shielded	openrouter:SI-60008-F	RJ connector, 8P8C (8 positions 8 connected), Shielded	
+J7	RJ45_Shielded	Connector:RJ45_Shielded	openrouter:SI-60008-F	RJ connector, 8P8C (8 positions 8 connected), Shielded	
+J8	USB_B	Connector:USB_B	Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal	USB Type B connector	
+J9	Conn_01x02	Connector_Generic:Conn_01x02	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J10	Conn_01x02	Connector_Generic:Conn_01x02	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J11	SDCMF-10915W0T0	SDCMF-10915W0T0:SDCMF-10915W0T0	Connector_Card:SD_TE_2041021	Micro SD Card Socket	
+J12	Conn_01x02	Connector_Generic:Conn_01x02	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J13	Conn_01x11	Connector_Generic:Conn_01x11	Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical	Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)	
+R1	4K7	Device:R	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	Resistor	
+R2	10K	Device:R	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	Resistor	
+R3	10K	Device:R	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	Resistor	
+R4	10K	Device:R	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	Resistor	
+RN1	R_Pack04_SIP	Device:R_Pack04_SIP	Resistor_THT:R_Array_SIP8	4 resistor network, parallel topology, SIP package	
+RN2	R_Pack04_SIP	Device:R_Pack04_SIP	Resistor_THT:R_Array_SIP8	4 resistor network, parallel topology, SIP package	
+RN3	R_Pack04_SIP	Device:R_Pack04_SIP	Resistor_THT:R_Array_SIP8	4 resistor network, parallel topology, SIP package	
+RN4	R_Pack04_SIP	Device:R_Pack04_SIP	Resistor_THT:R_Array_SIP8	4 resistor network, parallel topology, SIP package	
+RN5	R_Pack04_SIP	Device:R_Pack04_SIP	Resistor_THT:R_Array_SIP8	4 resistor network, parallel topology, SIP package	
+RN6	R_Pack04_SIP	Device:R_Pack04_SIP	Resistor_THT:R_Array_SIP8	4 resistor network, parallel topology, SIP package	
+RN7	R_Pack04_SIP	Device:R_Pack04_SIP	Resistor_THT:R_Array_SIP8	4 resistor network, parallel topology, SIP package	
+SW1	SW_Push	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SKHH_Angled	Push button switch, generic, two pins	
+U1	AP1117-33	Regulator_Linear:AP1117-33	Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown	1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223	
+U2	skw92a	skw92a:skw92a	lulo:SKW92A		

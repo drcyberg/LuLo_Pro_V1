@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name lulo)(type KiCad)(uri /home/crypt/lulo)(options "")(descr ""))
+  (lib (name w_conn_kk100)(type KiCad)(uri /home/crypt/dvr_itx/conn/w_conn_kk100.pretty)(options "")(descr ""))
+  (lib (name openrouter)(type KiCad)(uri /home/crypt/openrouter/openrouter)(options "")(descr ""))
+)
