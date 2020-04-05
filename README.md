@@ -57,4 +57,10 @@ WPA2, WAPI.
 
 ### BOM (Bill Of Materials) [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/bom.xlsx "Link") or [View](https://sheet.zoho.com/sheet/officeapi/v1/016c5c1a7f78c01aa1d0868f9272f4c49654d4fed95d037dfedbb9331656df7b8dfee3c593ba890e9879600564051f96bd0783a6f330d9be40e4ed283bed1458)
 
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+### 3D Models
+
+- [Base](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_base.stl "Base")
+- [Frame](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_frame.stl "Frame")
+- [Cover](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_cover.stl "Cover")
+- [Cover With Fan And Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wf_wlcd.stl "Cover With Fan And Lcd")
+[Cover With Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wof_wlcd.stl "Cover With Lcd")
