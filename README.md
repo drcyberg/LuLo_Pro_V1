@@ -73,6 +73,8 @@ WPA2, WAPI.
 - [Cover With Fan And Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wf_wlcd.stl "Cover With Fan And Lcd")
 - [Cover With Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wof_wlcd.stl "Cover With Lcd")
 
+### Thingiverse [Link](https://www.thingiverse.com/thing:4262740 "Link")
+
 ### If you want to support me
 
 [Donate](https://www.paypal.me/Kunee82 "Donate")
