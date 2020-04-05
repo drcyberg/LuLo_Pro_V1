@@ -22,6 +22,10 @@ GPIO.
 WPA2, WAPI.
 - Support AP/Client/Router mode.
 
+### Extra Additionals
+
+- Fan/LED Strip (5V/500mAh)
+
 ### Applications
 
 - USB WiFi Camera
