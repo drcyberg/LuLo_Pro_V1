@@ -54,3 +54,5 @@ WPA2, WAPI.
 ### How to flash [Link](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb "Flash")
 
 ### Manual [Download](http://www.skylab.com.cn/uploadfile/Download/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
+
+### BOM (Bill Of Materials) [Link](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.html "Link")
