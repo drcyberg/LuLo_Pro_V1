@@ -83,7 +83,7 @@ WPA2, WAPI.
 
 ---
 
-### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/bom.xlsx "Link") or [View](https://sheet.zoho.eu/sheet/published.do?rid=42dfbe86e06a03a254c4d9cb06e8fa9b62792 "View")
+### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/bom.xlsx "Link") or [View](https://docs.zoho.eu/sheet/published.do?rid=42dfbe86e06a03a254c4d9cb06e8fa9b62792 "View")
 
 ---
 
