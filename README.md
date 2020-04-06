@@ -29,15 +29,15 @@ WPA2, WAPI.
 
 ### Applications:
 
-- USB WiFi Camera
-- IOT (internet of things)
-- WiFi AP
-- 3G/4G WiFi Router
-- WiFi Repeater
-- Building Automation
-- Home Automation
-- Smart Home Gateway
-- Industry Control
+- [x] USB WiFi Camera
+- [x] IOT (internet of things)
+- [x] WiFi AP
+- [x] 3G/4G WiFi Router
+- [x] WiFi Repeater
+- [x] Building Automation
+- [x] Home Automation
+- [x] Smart Home Gateway
+- [x] Industry Control
 
 ### Application Block Diagram:
 
