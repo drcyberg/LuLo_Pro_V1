@@ -70,7 +70,7 @@ WPA2, WAPI.
 
 ---
 
-### Schematic:
+### Schematic: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.pdf "Download")
 
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/9.jpg)
 
