@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name lulo-rescue)(type Legacy)(uri ${KIPRJMOD}/lulo-rescue.lib)(options "")(descr ""))
-  (lib (name SDCMF-10915W0T0)(type Legacy)(uri ${KIPRJMOD}/SDCMF-10915W0T0.lib)(options "")(descr ""))
-)
