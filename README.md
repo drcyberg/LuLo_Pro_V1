@@ -55,7 +55,7 @@ WPA2, WAPI.
 
 ---
 
-### Samples, Schematic:
+### Samples:
 
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/1.jpg)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/2.jpg)
@@ -67,6 +67,11 @@ WPA2, WAPI.
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/10.jpg)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/11.jpg)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/12.jpg)
+
+---
+
+### Schematic:
+
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/9.jpg)
 
 ---
