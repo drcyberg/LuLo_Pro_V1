@@ -33,6 +33,7 @@ WPA2, WAPI.
 
 - Fan/LED Strip (5V/500mAh)
 - Reset button
+- Network traffic LEDs indicators
 
 ---
 
