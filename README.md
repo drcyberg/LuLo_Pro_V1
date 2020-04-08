@@ -32,6 +32,7 @@ WPA2, WAPI.
 ### Extra Additional:
 
 - Fan/LED Strip (5V/500mAh)
+- Reset button
 
 ---
 
