@@ -29,11 +29,13 @@ WPA2, WAPI.
 
 ---
 
-### Extra Additional:
+### Extra Additionals:
 
 - Fan/LED Strip (5V/500mAh)
 - Reset button
 - Network traffic LEDs indicators
+- ICSP header
+- USB connection
 
 ---
 
