@@ -101,7 +101,7 @@ WPA2, WAPI.
 
 ---
 
-### Gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1.zip "Download")
+### PCB Gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1.zip "Download")
 
 ---
 
