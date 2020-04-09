@@ -86,7 +86,10 @@ WPA2, WAPI.
 
 ---
 
-### How to flash: [Link](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb "Flash")
+### How to flash:
+
+- [Link](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb "Flash")
+- [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/flash.pdf "Flash")
 
 ---
 
