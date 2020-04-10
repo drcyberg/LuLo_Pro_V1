@@ -35,7 +35,7 @@ WPA2, WAPI.
 - Reset button
 - Network traffic LEDs indicators
 - ICSP header (Programming interface)
-- USB connection
+- USB connection interface
 - SD Card interface
 
 ---
