@@ -36,7 +36,7 @@ WPA2, WAPI.
 - Network traffic LEDs indicators
 - ICSP header (Programming interface)
 - USB connection
-- SD Card support
+- SD Card interface
 
 ---
 
