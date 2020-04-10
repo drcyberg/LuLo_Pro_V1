@@ -124,8 +124,8 @@ WPA2, WAPI.
 
 ---
 
-### If you want to support me:
+### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
 
-[Donate](https://www.paypal.me/Kunee82 "Donate")
+---
 
 ### Have a nice day!
