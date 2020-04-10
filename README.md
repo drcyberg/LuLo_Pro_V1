@@ -120,6 +120,10 @@ WPA2, WAPI.
 
 ---
 
+### OpenWrt Forum: [Link](https://forum.openwrt.org/t/prototype-lulo-pro-v1-wireless-network-router/60118 "Link")
+
+---
+
 ### If you want to support me:
 
 [Donate](https://www.paypal.me/Kunee82 "Donate")
