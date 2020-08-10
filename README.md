@@ -35,8 +35,15 @@ WPA2, WAPI.
 - Reset button
 - Network traffic LEDs indicators
 - ICSP header (Programming interface)
-- USB connection interface
+- USB connection interface (only debugging mode)
 - SD Card interface
+
+---
+
+### V1.1
+
+- Hardware support for standalone flashing mode (slide switch) [SW2] with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress"))
+- Hardware support for more performance and stability issue for the Ethernet ports (know(s) error: random lagging network)
 
 ---
 
@@ -91,6 +98,8 @@ WPA2, WAPI.
 
 - [Link](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb "Flash")
 - [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/flash.pdf "Flash")
+
+*Know Bug(s): Before connect LAN cable from PC to the Router, you must change Ethernet link speed to 10Mb/s, because dont knows upload correct the firmware (###error, try again!!!###).
 
 ---
 
