@@ -100,7 +100,7 @@ WPA2, WAPI.
 - [Link](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb "Flash")
 - [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/flash.pdf "Flash")
 
-=== Know Bug === Before connect LAN cable from PC to the Router, you must change Ethernet link speed to 10Mb/s, because dont knows upload correct the firmware (###error, try again!!!###).
+=== Know Bug === Before connect a LAN cable from PC to the Router, You must change Ethernet link speed to 10Mb/s, because dont knows upload correct the firmware to Chip (###error, try again!!!###).
 
 ---
 
