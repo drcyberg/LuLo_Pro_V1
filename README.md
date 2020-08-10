@@ -43,7 +43,7 @@ WPA2, WAPI.
 ### V1.1
 
 - Added slide switch (SW2) for standalone flashing mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress"))
-- Hardware support for more performance and stability issue for the Ethernet ports (know error: random lagging network)
+- *Hardware support for more performance and stability issue for the Ethernet ports (*know error: random lagging network)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/14.jpg)
 
 ---
