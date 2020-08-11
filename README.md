@@ -38,7 +38,7 @@ WPA2, WAPI.
 - USB connection interface (only debugging mode)
 - SD Card storage interface
 - Flashing mode slide switch
-- Other pinout headers from Chip (see Manual)
+- Other pinout headers from Chip (see Chip Manual)
 
 ---
 
