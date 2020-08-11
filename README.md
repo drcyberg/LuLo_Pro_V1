@@ -31,7 +31,7 @@ WPA2, WAPI.
 
 ### Extra Additionals:
 
-- Optional Fan/LED Strip (Enlarge input power: DC 5V/1500mAh)
+- Optional Fan/LED Strip (enlarge input power: DC 5V/1500mAh)
 - Reset button
 - Network traffic LEDs indicators
 - ICSP header (Programming interface)
