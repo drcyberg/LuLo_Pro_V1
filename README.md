@@ -103,7 +103,7 @@ WPA2, WAPI.
 - [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/flash.pdf "Flash")
 
 ### Important (Maintenance mode):
-Before connect a LAN cable from PC to the Router, You must decrease Ethernet link speed to 10Mb/s, because doesen't know uploads correct the firmware to the Chip (###error, try again!!!###).
+Before connect a LAN cable from PC to the Router, You must decrease Ethernet link speed to 10Mb/s, because doesn't know upload correct the firmware to the Chip (###error, try again!!!###).
 
 ---
 
