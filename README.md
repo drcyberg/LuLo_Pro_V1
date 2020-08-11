@@ -34,9 +34,9 @@ WPA2, WAPI.
 - Optional Fan/LED Strip (enlarge input power to DC 5V/1500mAh)
 - Reset button
 - Network traffic LEDs indicators
-- ICSP header (Programming interface)
+- ICSP header (programming interface)
 - USB connection interface (only debugging mode)
-- SD Card interface
+- SD Card storage interface
 
 ---
 
