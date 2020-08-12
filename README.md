@@ -95,6 +95,8 @@ WPA2, WAPI.
 
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/13.jpg)
 
+Recommended packages: [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management") ; [DNS over HTTPS with Dnsmasq and https-dns-proxy](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy "DNS over HTTPS with Dnsmasq and https-dns-proxy")
+
 ---
 
 ### How to flash:
