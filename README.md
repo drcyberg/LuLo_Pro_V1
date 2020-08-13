@@ -97,7 +97,7 @@ WPA2, WAPI.
 
 ### Recommended packages:
 - [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management")
-- [DNS over HTTPS with Dnsmasq and https-dns-proxy](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy "DNS over HTTPS with Dnsmasq and https-dns-proxy") (Optional)
+- [DNS over HTTPS with Dnsmasq and https-dns-proxy](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy "DNS over HTTPS with Dnsmasq and https-dns-proxy") (optional for a secure network)
 
 ---
 
