@@ -51,7 +51,7 @@ WPA2, WAPI.
 
 ---
 
-# V1.2
+### V1.2
 
 - Added Power SPDT Switch toggle
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/15.jpg)
