@@ -29,7 +29,7 @@ WPA2, WAPI.
 
 ---
 
-### Extra Additionals:
+### Extra additionals:
 
 - Optional for Fan/LED Strip pinout header (enlarge input power to DC 5V/1500mAh)
 - Reset button
@@ -72,7 +72,7 @@ WPA2, WAPI.
 
 ---
 
-### Application Block Diagram:
+### Application block diagram:
 
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/8.jpg)
 
@@ -127,11 +127,11 @@ Before connect a LAN cable from PC to the Router (TFTP mode), You must decrease 
 
 ---
 
-### PCB Gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1.zip "Download")
+### PCB gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1.zip "Download")
 
 ---
 
-### 3D Models:
+### 3D models:
 
 - [Base](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_base.stl "Base")
 - [Frame](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_frame.stl "Frame")
@@ -145,7 +145,7 @@ Before connect a LAN cable from PC to the Router (TFTP mode), You must decrease 
 
 ---
 
-### OpenWrt Forum: [Link](https://forum.openwrt.org/t/prototype-lulo-pro-v1-wireless-network-router/60118 "Link")
+### OpenWrt forum: [Link](https://forum.openwrt.org/t/prototype-lulo-pro-v1-wireless-network-router/60118 "Link")
 
 ---
 
