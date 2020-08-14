@@ -39,6 +39,7 @@ WPA2, WAPI.
 - SD Card storage interface
 - Flashing mode slide switch
 - Other pinout headers from Chip (see Chip Manual)
+- Power SPDT Switch toggle
 
 ---
 
@@ -47,6 +48,13 @@ WPA2, WAPI.
 - Added slide switch for enable easier standalone flashing/debug mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
 - Hardware support for more performance and stability issue for the Ethernet ports (fixed random lagging network)
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/14.jpg)
+
+---
+
+# V1.2
+
+- Added Power SPDT Switch toggle
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/15.jpg)
 
 ---
 
