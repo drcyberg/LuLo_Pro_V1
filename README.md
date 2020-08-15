@@ -25,13 +25,13 @@ GPIO.
 - Security: WEP64/128, TKIP, AES, WPA,
 WPA2, WAPI.
 - Support AP/Client/Router mode.
-- Power Supply Adapter DC 5V/1A (Standalone mode)
+- Power Supply Adapter: Standalone mode = DC 5V/1000mAh ; Extended mode = 5V/1500mAh
 
 ---
 
 ### Extra additionals:
 
-- Optional for Fan/LED Strip pinout header (enlarge input power to DC 5V/1500mAh)
+- Optional for Fan/LED Strip pinout header (increase input power to DC 5V/1500mAh)
 - Reset button
 - Network traffic LEDs indicators
 - ICSP header (programming interface)
