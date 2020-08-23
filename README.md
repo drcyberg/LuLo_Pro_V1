@@ -37,9 +37,9 @@ WPA2, WAPI.
 - ICSP header (programming interface)
 - USB connection interface (only debugging mode)
 - SD Card storage interface
-- Flashing mode slide switch
 - Other pinout headers from Chip (see Chip Manual)
-- Power SPDT Switch toggle
+- Flashing mode slide switch (V1.1)
+- Power SPDT Switch toggle (V1.2)
 
 ---
 
