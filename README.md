@@ -133,6 +133,7 @@ Before connect a LAN cable from PC to the Router (TFTP mode), You must decrease 
 
 ### 3D models:
 
+![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/LuLo.jpg)
 - [Base](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_base.stl "Base")
 - [Frame](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_frame.stl "Frame")
 - [Cover](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_cover.stl "Cover")
