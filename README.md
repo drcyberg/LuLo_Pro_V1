@@ -136,9 +136,10 @@ Before connect a LAN cable from PC to the Router (TFTP mode), You must decrease 
 ![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/LuLo.jpg)
 - [Base](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_base.stl "Base")
 - [Frame](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_frame.stl "Frame")
-- [Cover](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_cover.stl "Cover")
-- [Cover With Fan And Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wf_wlcd.stl "Cover With Fan And Lcd")
-- [Cover With Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wof_wlcd.stl "Cover With Lcd")
+- [Simple Cover](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_cover.stl "Simple cover")
+- [Stand](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_stand.stl "Stand")
+- [Cover With 16x2 Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
+- [Cover With 20x4 Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
 
 ---
 
