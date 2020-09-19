@@ -141,6 +141,11 @@ Before connect a LAN cable from PC to the Router (TFTP mode), You must decrease 
 - [Cover With 16x2 Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
 - [Cover With 20x4 Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
 
+### Required oder parts:
+
+- 4x M4 55mm screw
+- 4x M4 nut
+
 ---
 
 ### Thingiverse: [Link](https://www.thingiverse.com/thing:4262740 "Link")
