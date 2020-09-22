@@ -112,9 +112,6 @@ WPA2, WAPI.
 
 - [Wiki](https://github.com/drcyberg/LuLo_Pro_V1/wiki "Flash")
 
-### Important (Maintenance mode):
-Before connect a LAN cable from PC to the Router (TFTP mode), You must decrease Ethernet link speed to 10Mb/s, because You don't know upload correct the firmware to the Chip (Message: `###error, try again!!!###`).
-
 ---
 
 ### Manual (Chip): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
