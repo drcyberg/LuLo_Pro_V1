@@ -124,7 +124,7 @@ WPA2, WAPI.
 
 ---
 
-### PCB gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1.zip "Download")
+### PCB gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1_2.zip "Download")
 
 ---
 
