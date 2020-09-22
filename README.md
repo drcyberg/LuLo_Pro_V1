@@ -110,8 +110,7 @@ WPA2, WAPI.
 
 ### How to flash:
 
-- [Link](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb "Flash")
-- [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/flash.pdf "Flash")
+- [Wiki](https://github.com/drcyberg/LuLo_Pro_V1/wiki "Flash")
 
 ### Important (Maintenance mode):
 Before connect a LAN cable from PC to the Router (TFTP mode), You must decrease Ethernet link speed to 10Mb/s, because You don't know upload correct the firmware to the Chip (Message: "###error, try again!!!###").
