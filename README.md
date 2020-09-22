@@ -110,7 +110,7 @@ WPA2, WAPI.
 
 ### How to flash:
 
-- [Wiki](https://github.com/drcyberg/LuLo_Pro_V1/wiki "Flash")
+- [Wiki](https://github.com/drcyberg/LuLo_Pro_V1/wiki/How-to-flash "Flash")
 
 ---
 
