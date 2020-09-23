@@ -22,7 +22,7 @@ data rate.
 and USB 3G/4G dongle and USB camera.
 - Support SD card.
 - Support interface: I2C, PCM,
-I2S(192K/24bits), PWM, SPI slave, UART lite,
+I2S(192Kb/s, 24bits), PWM, SPI slave, UART lite,
 GPIO.
 - Security: WEP64/128, TKIP, AES, WPA,
 WPA2, WAPI.
