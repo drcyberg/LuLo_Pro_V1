@@ -94,7 +94,7 @@ WPA2, WAPI.
 
 ---
 
-### Schematic: [Download](/lulo/lulo.pdf "Download")
+### Schematic: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.pdf "Download")
 
 ![](/pictures/9.jpg)
 
@@ -116,21 +116,22 @@ WPA2, WAPI.
 
 ---
 
-### Manual (Chip): [Download](/lulo/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
+### Manual (Chip): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
 
 ---
 
-### BOM (Bill Of Materials): [Download](/lulo/lulo.xlsx "Link") or [View](https://docs.zoho.eu/sheet/published.do?rid=42dfbe86e06a03a254c4d9cb06e8fa9b62792 "View")
+### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.xlsx "Link") or [View](https://docs.zoho.eu/sheet/published.do?rid=42dfbe86e06a03a254c4d9cb06e8fa9b62792 "View")
 
 ---
 
-### PCB gerber file: [Download](/manufacturing/lulo_v1_2.zip "Download")
+### PCB gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1_2.zip "Download")
 
 ---
 
 ### 3D models:
 
 ![](/pictures/LuLo.jpg)
+
 - [Base](/stl/lulo_base.stl "Base")
 - [Frame](/stl/lulo_frame.stl "Frame")
 - [Simple Cover](/stl/lulo_top_cover.stl "Simple cover")
