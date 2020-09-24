@@ -112,7 +112,7 @@ WPA2, WAPI.
 
 ### How to flash (Service mode):
 
-- [Wiki](/wiki/How-to-flash "Flash")
+- [Wiki](https://github.com/drcyberg/LuLo_Pro_V1/wiki/How-to-flash "Flash")
 
 ---
 
