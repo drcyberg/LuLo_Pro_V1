@@ -48,7 +48,7 @@ WPA2, WAPI.
 ### V1.2
 
 - Added Power SPDT Switch toggle
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/15.jpg)
+![](/pictures/15.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ WPA2, WAPI.
 
 - Added slide switch for enable easier standalone flashing/debug mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
 - Hardware support for more performance and stability issue for the Ethernet ports (fixed random lagging network)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/14.jpg)
+![](/pictures/14.jpg)
 ---
 
 ### Applications:
@@ -75,34 +75,34 @@ WPA2, WAPI.
 
 ### Application block diagram:
 
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/8.jpg)
+![](/pictures/8.jpg)
 
 ---
 
 ### Samples:
 
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/1.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/2.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/3.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/4.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/5.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/6.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/7.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/10.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/11.jpg)
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/12.jpg)
+![](/pictures/1.jpg)
+![](/pictures/2.jpg)
+![](/pictures/3.jpg)
+![](/pictures/4.jpg)
+![](/pictures/5.jpg)
+![](/pictures/6.jpg)
+![](/pictures/7.jpg)
+![](/pictures/10.jpg)
+![](/pictures/11.jpg)
+![](/pictures/12.jpg)
 
 ---
 
-### Schematic: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.pdf "Download")
+### Schematic: [Download](/lulo/lulo.pdf "Download")
 
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/9.jpg)
+![](/pictures/9.jpg)
 
 ---
 
 ### Firmware: [Download](https://openwrt.org/toh/hwdata/skylab/skylab_skw92a "skw92a") (OpenWrt)
 
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/13.jpg)
+![](/pictures/13.jpg)
 
 ### Recommended packages:
 - [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management")
@@ -112,31 +112,31 @@ WPA2, WAPI.
 
 ### How to flash (Service mode):
 
-- [Wiki](https://github.com/drcyberg/LuLo_Pro_V1/wiki/How-to-flash "Flash")
+- [Wiki](/wiki/How-to-flash "Flash")
 
 ---
 
-### Manual (Chip): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
+### Manual (Chip): [Download](/lulo/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
 
 ---
 
-### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.xlsx "Link") or [View](https://docs.zoho.eu/sheet/published.do?rid=42dfbe86e06a03a254c4d9cb06e8fa9b62792 "View")
+### BOM (Bill Of Materials): [Download](/lulo/lulo.xlsx "Link") or [View](https://docs.zoho.eu/sheet/published.do?rid=42dfbe86e06a03a254c4d9cb06e8fa9b62792 "View")
 
 ---
 
-### PCB gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1_2.zip "Download")
+### PCB gerber file: [Download](/manufacturing/lulo_v1_2.zip "Download")
 
 ---
 
 ### 3D models:
 
-![](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/LuLo.jpg)
-- [Base](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_base.stl "Base")
-- [Frame](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_frame.stl "Frame")
-- [Simple Cover](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_cover.stl "Simple cover")
-- [Stand](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_stand.stl "Stand")
-- [Cover With 16x2 Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
-- [Cover With 20x4 Lcd](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/stl/lulo_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
+![](/pictures/LuLo.jpg)
+- [Base](/stl/lulo_base.stl "Base")
+- [Frame](/stl/lulo_frame.stl "Frame")
+- [Simple Cover](/stl/lulo_top_cover.stl "Simple cover")
+- [Stand](/stl/lulo_stand.stl "Stand")
+- [Cover With 16x2 Lcd](/stl/lulo_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
+- [Cover With 20x4 Lcd](/stl/lulo_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
 
 ### Required other parts:
 
