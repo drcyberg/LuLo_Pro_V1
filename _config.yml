@@ -4,4 +4,4 @@ baseurl: /LuLo_Pro_V1
 title: LuLo_Pro_V1
 description: LuLo_Pro_V1 Wireless Network Router
 image:
-  background: https://github.com/drcyberg/LuLo_Pro_V1/blob/master/pictures/LoGo.jpg
+  background: /pictures/logo.jpg
