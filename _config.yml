@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
-logo: "/pictures/9.jpg"
-teaser: "/pictures/9.jpg"
+logo:
+path: /pictures/9.jpg
