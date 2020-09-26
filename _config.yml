@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 url: https://drcyberg.github.io/LuLo_Pro_V1/
 baseurl: /LuLo_Pro_V1
-header: pictures/logo.jpg
+header:
+overlay_image: /pictures/logo.jpg
