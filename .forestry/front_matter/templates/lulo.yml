@@ -1,0 +1,8 @@
+---
+label: LuLo
+hide_body: false
+fields:
+- name: proba
+  type: boolean
+  label: proba
+  description: jo?
