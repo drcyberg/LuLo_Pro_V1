@@ -1,4 +1,8 @@
 ---
 label: LuLo
 hide_body: false
-fields: []
+fields:
+- name: proba
+  type: boolean
+  label: proba
+  description: jo?
