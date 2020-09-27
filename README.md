@@ -1,7 +1,3 @@
----
-proba: true
-
----
 # LuLo Pro V1 Wireless Network Router
 
 ---
