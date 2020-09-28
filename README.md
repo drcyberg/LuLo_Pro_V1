@@ -120,7 +120,7 @@ WPA2, WAPI.
 
 ---
 
-### BOM (Bill Of Materials): [View](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/bom/ibom.html "View")
+### BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/LuLo_Pro_V1/blob/master/bom/ibom.html "View")
 
 ---
 
